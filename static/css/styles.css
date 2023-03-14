@@ -1,0 +1,15 @@
+    cke_id_body {
+        width: inherit !important;
+    }
+    .htmleditor p {
+        font-weight: 900;
+        font-size: 20px;
+    }
+    .texteditor p label {
+        font-weight: 800;
+        font-size: 18px;
+    }
+    #htmldata {
+        font-weight: 600;
+    }
+
